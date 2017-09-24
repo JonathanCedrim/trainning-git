@@ -7,4 +7,4 @@ function trocaBanner() {
 }
 
 
-setInterval(trocarBanner, 2000);
+setInterval(trocaBanner, 2000);
